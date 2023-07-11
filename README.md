@@ -4,3 +4,6 @@
 * Understanding recurrent neural networks (RNNs)
 * Applying RNNs to a temperature-forecasting example
 * Advanced RNN usage patterns
+
+  ### Temperature-forecasting example
+  
